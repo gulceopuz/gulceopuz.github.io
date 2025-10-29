@@ -2,7 +2,7 @@
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
 title: "Gülce Opuz"
-description: 
+description: ""
 baseurl: "" 
 url: "https://gulceopuz.github.io"
 og_image: /assets/img/profile-pic.jpg
