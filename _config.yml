@@ -12,6 +12,7 @@ header:
     - name: Research
     - name: Teaching
     - name: CV
+      slug: /assets/CV_Gülce_Oct25.pdf
 
 footer:
   show_powered_by: true
