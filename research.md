@@ -1,6 +1,6 @@
 ---
 layout: work
-title: "Research"
+title: ""
 permalink: /research/
 ---
 
@@ -13,12 +13,11 @@ Wealthier individuals tend to allocate a higher percentage of their wealth to eq
 
 ## Publication
 
-### *Price, information and product quality: Explaining index insurance demand in Burkina Faso*  
-_with Quentin Stoeffler, Food Policy · 2022_ [PDF](https://www.sciencedirect.com/science/article/pii/S0306919221001925)
+### *Price, information and product quality: Explaining index insurance demand in Burkina Faso with Quentin Stoeffler, Food Policy* · 2022_ [PDF](https://www.sciencedirect.com/science/article/pii/S0306919221001925)
 
 
 ## Work in progress
 
-### *Preference for wealth: portfolio choice of wealthy and upper-middle class* 
+*Preference for wealth: portfolio choice of wealthy and upper-middle class*
 
 
