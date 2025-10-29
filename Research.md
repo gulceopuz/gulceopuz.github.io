@@ -22,7 +22,7 @@ bring the model closer to explaining the portfolio allocation choices of wealthi
 ## Publication
 
 ### *Price, information and product quality: Explaining index insurance demand in Burkina Faso.*  
-_with Quentin Stoeffler · 2022_ 
+_with Quentin Stoeffler, Food Policy · 2022_ 
 [PDF](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1234567](https://www.sciencedirect.com/science/article/pii/S0306919221001925)
 
 
