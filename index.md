@@ -1,6 +1,5 @@
 ---
 layout: home
-title: "Gülce Opuz"
 profile_picture:
   src: /assets/img/1715950611565.jpeg
   alt: website picture
