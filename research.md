@@ -20,5 +20,5 @@ _with Quentin Stoeffler, Food Policy, 2022_ [PDF](https://www.sciencedirect.com/
 ## Work in progress
 
 *Preference for wealth: portfolio choice of wealthy and upper-middle class*
-
+*Portfolio choice with heterogeneous risks: emerging and developed economies*
 
