@@ -10,7 +10,7 @@ profile_picture:
 </p>
 
 <p>
- I am a doctoral student in the Finance Group at Imperial College Business School. My research interests are household finance, portfolio choice and wealth inequality.
+I am a doctoral student in the Finance Group at Imperial College Business School. My research interests are household finance and portfolio choice.
 </p>
 
 <p>
